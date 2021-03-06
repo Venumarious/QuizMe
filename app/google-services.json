@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "88118324265",
+    "project_id": "quiz-me-207da",
+    "storage_bucket": "quiz-me-207da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88118324265:android:1993120138576a267d0038",
+        "android_client_info": {
+          "package_name": "com.eduadministrative.quizme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88118324265-ffhtrbpq7n1p0fm413o3q16sv6bgm2rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eduadministrative.quizme",
+            "certificate_hash": "491857c28bb9842ef48bc3150a64030baeaf2ce8"
+          }
+        },
+        {
+          "client_id": "88118324265-494t94fvbisk56oq8q22l4vrtu885r1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu8Dl1A09OIMM6cbdV-kQJaEX-DJR-b9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88118324265-494t94fvbisk56oq8q22l4vrtu885r1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
